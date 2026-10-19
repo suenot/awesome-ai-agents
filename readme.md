@@ -47,6 +47,7 @@ These libraries help you build custom AI agent systems with multi-agent capabili
 
 These tools enhance agent systems with specific capabilities like browser interaction or computer use:
 
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - **[Browser Use](https://github.com/anthropics/browser-use)**  
   Enables agents to interact with browsers programmatically. Useful for web-based multi-agent tasks with tool support.
 - **[OpenManus](https://github.com/manus-ai/openmanus)**  
